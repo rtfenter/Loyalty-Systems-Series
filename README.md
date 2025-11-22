@@ -27,8 +27,10 @@ These projects each have their own repo and contribute to the broader loyalty po
 
 ### • Loyalty Points Simulator  
 A small interactive tool to simulate earning, FX normalization, tier multipliers, and redemption value.
-Live Demo: https://rtfenter.github.io/Loyalty-Points-Simulator/
-Repo: https://github.com/rtfenter/Loyalty-Points-Simulator
+
+- **Live Demo:** https://rtfenter.github.io/Loyalty-Points-Simulator/
+- **Repo:** https://github.com/rtfenter/Loyalty-Points-Simulator
+
 
 ### • Event Contract Validator — Loyalty Edition  
 *A lightweight validator that checks event quality, naming consistency, and schema drift.*  
