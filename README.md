@@ -37,8 +37,11 @@ A small interactive tool to simulate earning, FX normalization, tier multipliers
 Repo: _(coming soon)_
 
 ### • ML Drift Dashboard — Points & Promotions  
-*A tiny dashboard showing how inconsistent loyalty data creates drift in downstream models.*  
-Repo: _(coming soon)_
+A tiny dashboard showing how inconsistent loyalty events create drift in targeting, promotions, partner classification, and scoring stability.
+
+- **Live Demo:** https://rtfenter.github.io/Loyalty-Drift-Dashboard/  
+- **Repo:** https://github.com/rtfenter/Loyalty-Drift-Dashboard
+
 
 ---
 
