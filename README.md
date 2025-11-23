@@ -48,7 +48,6 @@ A tiny dashboard showing how inconsistent loyalty events create drift in targeti
 ## System Diagrams  
 These diagrams illustrate how loyalty systems behave behind the scenes.
 
-- Earn → Ledger → Redeem Event Flow
 ### Earn → Ledger → Redeem Event Flow
 
 ```text
