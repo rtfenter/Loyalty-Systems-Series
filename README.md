@@ -147,9 +147,6 @@ Consequences:
 
 ## Partner-Specific Rules and Multi-Market Drift
 
-```markdown
-### Partner-Specific Rules and Multi-Market Drift
-
 ```text
                 [Global Program Config]
                           |
