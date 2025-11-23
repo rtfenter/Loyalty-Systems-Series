@@ -19,7 +19,7 @@ A curated selection of essays exploring loyalty systems, platforms, ML governanc
 
 ---
 
-## Projects (In Progress)
+## Projects
 
 These projects each have their own repo and contribute to the broader loyalty portfolio.
 
@@ -31,10 +31,12 @@ A small interactive tool to simulate earning, FX normalization, tier multipliers
 
 
 ### • Event Contract Validator — Loyalty Edition  
-*A lightweight validator that checks event quality, naming consistency, and schema drift.*  
-Repo: _(coming soon)_
+A lightweight validator that checks event quality, naming consistency, and schema drift.
 
-### • ML Drift Dashboard — Points & Promotions  
+- **Live Demo:** https://rtfenter.github.io/Loyalty-Event-Contract-Validator/  
+- **Repo:** https://github.com/rtfenter/Loyalty-Event-Contract-Validator
+
+### • Loyalty Drift Dashboard — Points & Promotions  
 A tiny dashboard showing how inconsistent loyalty events create drift in targeting, promotions, partner classification, and scoring stability.
 
 - **Live Demo:** https://rtfenter.github.io/Loyalty-Drift-Dashboard/  
