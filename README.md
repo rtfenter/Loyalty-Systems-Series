@@ -83,10 +83,10 @@ Essays exploring loyalty architecture, platform design, ML alignment, and data i
 | **Loyalty Points Simulator** | Simulate earning, FX normalization, partner rules, and tier multipliers | https://rtfenter.github.io/Loyalty-Points-Simulator/ | https://github.com/rtfenter/Loyalty-Points-Simulator |
 | **Loyalty Drift Dashboard** | Surface drift in targeting, promotions, and classification | https://rtfenter.github.io/Loyalty-Drift-Dashboard/ | https://github.com/rtfenter/Loyalty-Drift-Dashboard |
 | **Loyalty Event Contract Validator** | Validate loyalty event rules, naming, types, and schema drift | https://rtfenter.github.io/Loyalty-Event-Contract-Validator/ | https://github.com/rtfenter/Loyalty-Event-Contract-Validator |
-| **Tier Progression Visualizer** | Earn → FX → tier → partner multipliers | coming soon | coming soon |
-| **Partner Rule Tester — Loyalty Edition** | Region eligibility, overrides, partner exceptions | coming soon | coming soon |
-| **Redemption Value Integrity Checker** | Value parity across markets and partners | coming soon | coming soon |
-| **FX Drift Analyzer for Loyalty Value** | FX shifts → value distortion → fairness issues | coming soon | coming soon |
+| **Tier Progression Visualizer** | Earn → FX → tier → partner multipliers | https://rtfenter.github.io/Loyalty-Tier-Progression-Visualizer/ | https://github.com/rtfenter/Loyalty-Tier-Progression-Visualizer |
+| **Partner Rule Tester — Loyalty Edition** | Region eligibility, overrides, partner exceptions | https://rtfenter.github.io/Partner-Rule-Tester-Loyalty/ | https://github.com/rtfenter/Partner-Rule-Tester-Loyalty |
+| **Redemption Value Integrity Checker** | Value parity across markets and partners | https://rtfenter.github.io/Redemption-Value-Integrity-Checker/ | https://github.com/rtfenter/Redemption-Value-Integrity-Checker |
+| **FX Drift Analyzer for Loyalty Value** | FX shifts → value distortion → fairness issues | https://rtfenter.github.io/FX-Drift-Analyzer/ | https://github.com/rtfenter/FX-Drift-Analyzer |
 | **Loyalty Ledger Reconciliation Sandbox** | Earned vs redeemed vs expired vs corrected | coming soon | coming soon |
 
 ---
