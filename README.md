@@ -87,7 +87,8 @@ Essays exploring loyalty architecture, platform design, ML alignment, and data i
 | **Partner Rule Tester — Loyalty Edition** | Region eligibility, overrides, partner exceptions | https://rtfenter.github.io/Loyalty-Partner-Rule-Tester/ | https://github.com/rtfenter/Loyalty-Partner-Rule-Tester |
 | **Redemption Value Integrity Checker** | Value parity across markets and partners | https://rtfenter.github.io/Loyalty-Redemption-Value-Checker/ | https://github.com/rtfenter/Loyalty-Redemption-Value-Checker |
 | **FX Drift Analyzer for Loyalty Value** | FX shifts → value distortion → fairness issues | https://rtfenter.github.io/Loyalty-FX-Drift-Analyzer/ | https://github.com/rtfenter/Loyalty-FX-Drift-Analyzer |
-| **Loyalty Ledger Reconciliation Sandbox** | Earned vs redeemed vs expired vs corrected | coming soon | coming soon |
+| **Loyalty Ledger Reconciliation Sandbox** | Earned vs redeemed vs expired vs corrected | https://rtfenter.github.io/Loyalty-Ledger-Reconciliation-Sandbox/ | https://github.com/rtfenter/Loyalty-Ledger-Reconciliation-Sandbox |
+
 
 ---
 
